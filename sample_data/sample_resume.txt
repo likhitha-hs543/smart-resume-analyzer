@@ -1,0 +1,49 @@
+LIKHITHA H S
+Software Engineer | Full Stack Developer
+Email: likhitha.hs@example.com | Phone: +91-XXXXXXXXXX
+LinkedIn: linkedin.com/in/likhitha-hs | GitHub: github.com/likhitha-hs
+
+EDUCATION
+Bachelor of Technology in Computer Science Engineering
+XYZ Institute of Technology, Bangalore
+GPA: 8.5/10 | Graduated: May 2023
+
+TECHNICAL SKILLS
+Programming Languages: Java, Python, JavaScript, SQL
+Frameworks & Technologies: Android, Firebase, Git, MySQL
+Tools: VS Code, Android Studio, Postman
+Other Skills: Data Structures, Algorithms, OOP, REST APIs
+
+PROJECTS
+
+E-Commerce Android Application (Jan 2023 - Apr 2023)
+- Developed a full-featured Android e-commerce app using Java and Firebase
+- Implemented user authentication, product catalog, shopping cart functionality
+- Integrated Firebase Realtime Database for data storage and sync
+- Used Git for version control and collaborative development
+- Technologies: Java, Android, Firebase, XML, Git
+
+Student Management System (Aug 2022 - Nov 2022)
+- Built a web-based student management system using Python and MySQL
+- Created REST APIs for CRUD operations on student records
+- Implemented SQL queries for efficient data retrieval and reporting
+- Technologies: Python, Flask, MySQL, HTML, CSS, JavaScript
+
+Weather Monitoring IoT Project (Feb 2022 - May 2022)
+- Designed IoT-based weather monitoring system with real-time data collection
+- Developed Python scripts for sensor data processing and visualization
+- Stored historical data in MySQL database for analysis
+- Technologies: Python, MySQL, IoT Sensors, Data Visualization
+
+CERTIFICATIONS
+- Java Programming Certification - Oracle (2023)
+- Android App Development - Google (2022)
+- Python for Data Science - IBM (2022)
+
+ACHIEVEMENTS
+- Winner of College Hackathon 2023 - Built Android app in 24 hours
+- Contributor to open-source Android projects on GitHub
+- Active member of Google Developer Student Club
+
+INTERESTS
+Mobile App Development, Open Source Contribution, Problem Solving, Learning New Technologies

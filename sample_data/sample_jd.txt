@@ -1,0 +1,48 @@
+BACKEND JAVA DEVELOPER
+Tech Solutions India Pvt. Ltd.
+Location: Bangalore, India
+
+ABOUT THE ROLE
+We are seeking a talented Backend Java Developer to join our growing engineering team. You will be responsible for building scalable microservices and REST APIs to power our enterprise applications.
+
+REQUIRED SKILLS AND QUALIFICATIONS
+
+Essential Technical Skills:
+- Strong proficiency in Java (Java 8 or higher)
+- Experience with Spring Framework and Spring Boot
+- Knowledge of RESTful API design and implementation
+- Hands-on experience with Docker containerization
+- Familiarity with AWS cloud services (EC2, S3, RDS)
+- Proficiency in SQL and relational databases (MySQL or PostgreSQL)
+- Version control with Git and GitHub/GitLab
+
+Good to Have:
+- Experience with microservices architecture
+- Knowledge of Kubernetes for container orchestration
+- Familiarity with CI/CD pipelines (Jenkins, GitLab CI)
+- Understanding of message queues (Kafka, RabbitMQ)
+- Basic knowledge of front-end technologies
+
+KEY RESPONSIBILITIES
+- Design and develop robust backend services using Java and Spring Boot
+- Build and maintain RESTful APIs for web and mobile applications
+- Work with Docker to containerize applications
+- Deploy and manage applications on AWS infrastructure
+- Write efficient SQL queries and optimize database performance
+- Collaborate with frontend developers and DevOps team
+- Participate in code reviews and maintain coding standards
+- Debug and troubleshoot production issues
+
+QUALIFICATIONS
+- Bachelor's degree in Computer Science or related field
+- 0-2 years of experience in Java backend development
+- Strong problem-solving and analytical skills
+- Good communication and teamwork abilities
+- Passion for learning new technologies
+
+WHAT WE OFFER
+- Competitive salary package
+- Work on cutting-edge technologies
+- Mentorship from senior developers
+- Flexible work arrangements
+- Learning and development opportunities
