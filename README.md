@@ -132,7 +132,7 @@ java -jar target/smart-resume-analyzer-1.0.0.jar path/to/resume.pdf path/to/job_
 ```
 
 ### Requirements
-- Java 17 or higher
+- Java 17 or higher (built and tested with Java 21, targeting Java 17 bytecode)
 - No other dependencies (Maven wrapper included)
 
 ## Project Structure
